@@ -6,3 +6,5 @@ This program works by getting the input profiles from the Terraria game folder i
 ![The Program](https://i.imgur.com/ZZlXzKK.png)
 
 ## Install
+
+[Terraia Super Fisher.exe](https://github.com/ElementCodez/Terraria-Super-Fisher/releases) v1.0
